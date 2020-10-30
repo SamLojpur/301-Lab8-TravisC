@@ -79,7 +79,6 @@ public class CityList {
     }
 
     public City getCity(int index) {
-        return null;
-//        return cities.get(index);
+        return cities.get(index);
     }
 }

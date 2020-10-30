@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d59fd067-2748-4f4d-98cb-4e27a6af2260" name="Default Changelist" comment="" />
+    <list default="true" id="d59fd067-2748-4f4d-98cb-4e27a6af2260" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/simpleparadox/listycity/CityList.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/simpleparadox/listycity/CityList.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +25,11 @@
     </system>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jZY7XsUoNPaoylNZ2Zd1Iq8zjq" />
@@ -34,7 +43,24 @@
     <property name="android.sdk.path" value="$USER_HOME$/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Android JUnit.CityListTest.testGetCity">
+    <configuration name="CityListTest.testGetCity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.simpleparadox.listycity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.simpleparadox.listycity" />
+      <option name="MAIN_CLASS_NAME" value="com.example.simpleparadox.listycity.CityListTest" />
+      <option name="METHOD_NAME" value="testGetCity" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -93,6 +119,11 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.CityListTest.testGetCity" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -108,6 +139,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1878" height="277" key="GridCell.Tab.0.bottom" timestamp="1604016739166">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1604016739166" />
+    <state width="1878" height="277" key="GridCell.Tab.0.center" timestamp="1604016739165">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="277" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1604016739165" />
+    <state width="1878" height="277" key="GridCell.Tab.0.left" timestamp="1604016739165">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="277" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1604016739165" />
+    <state width="1878" height="277" key="GridCell.Tab.0.right" timestamp="1604016739165">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1878" height="277" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1604016739165" />
     <state x="538" y="157" key="SettingsEditor" timestamp="1604013460876">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
